@@ -1,0 +1,131 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SATWIKSAHOOSP.COM" resolutions="1x" timestamp="1573747196644">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="speech.css" crc="3972991799" ref="speech"/>
+    <file name="achiv.css" crc="4026077906" ref="achiv"/>
+    <file name="r-t-conf.css" crc="246527602" ref="r-t-conf"/>
+    <file name="index.css" crc="495186391" ref="index"/>
+    <file name="video.css" crc="4290750641" ref="video"/>
+    <file name="audio.css" crc="299737115" ref="audio"/>
+    <file name="nomq_audio.css" crc="302851144" ref="audio"/>
+    <file name="quit-ind.css" crc="4156485809" ref="quit-ind"/>
+    <file name="banaras.css" crc="4076012154" ref="banaras"/>
+    <file name="dandi-march.css" crc="117725055" ref="dandi-march"/>
+    <file name="last-sfast.css" crc="40148153" ref="last-sfast"/>
+    <file name="untitled-3.css" crc="4251471670" ref="untitled-3"/>
+  </folder>
+  <folder name="assets">
+    <file name="my_video.mp4" crc="4071042056" seo="true" mt="1573667899000"/>
+    <file name="img_forest.jpg" crc="3828153688" seo="true" mt="1573687109000"/>
+    <file name="mahatma-gandhi-s-speech-(unedited-voice).mp3" crc="396050718" seo="true" mt="1573652892000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="museutils.js" crc="3939489907" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="museconfig.js" crc="128606099" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:banaras:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="require.js" crc="4177726516" ref="index:banaras:untitled-3:r-t-conf:quit-ind:last-sfast:achiv:audio:dandi-march:speech:video"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="audio"/>
+  </folder>
+  <folder name="images">
+    <file name="u1189-4.png" crc="4129904076" ref="index"/>
+    <file name="u975-6.png" crc="4154795074" ref="index"/>
+    <file name="u1185-8.png" crc="355733995" ref="index"/>
+    <file name="u1073-4.png" crc="4241043349" ref="index"/>
+    <file name="mahatma-gandhi-png-images.png" crc="3896827381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u987-6.png" crc="4071402631" ref="index"/>
+    <file name="u1086-5.png" crc="38531782" ref="index"/>
+    <file name="u1069-6.png" crc="3806761829" ref="index"/>
+    <file name="u1149-8.png" crc="25602452" ref="index"/>
+    <file name="pink-teal-and-orange-panel-1352751.jpg" crc="3854519817" ref="index:banaras:r-t-conf:quit-ind:last-sfast:achiv:dandi-march:speech:video">
+      <caption webpage="achiv" alt=""/>
+      <caption webpage="banaras" alt=""/>
+      <caption webpage="r-t-conf" alt=""/>
+      <caption webpage="dandi-march" alt=""/>
+      <caption webpage="quit-ind" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="last-sfast" alt=""/>
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="u289-8.png" crc="3785953826" ref="banaras"/>
+    <file name="screenshot_2019-11-13-19-02-36.jpg" crc="103204160" seo="true" ref="banaras">
+      <caption webpage="banaras" alt=""/>
+    </file>
+    <file name="u309-9.png" crc="4020711763" ref="banaras"/>
+    <file name="u1093-4.png" crc="3963710675" ref="banaras"/>
+    <file name="u406-6.png" crc="264558079" ref="untitled-3"/>
+    <file name="dandi march.jpg" crc="4029217196" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="u431-4.png" crc="185189121" ref="untitled-3"/>
+    <file name="u416-8.png" crc="419782699" ref="untitled-3"/>
+    <file name="u472-6.png" crc="354370243" ref="r-t-conf"/>
+    <file name="download (1).jpg" crc="222355881" seo="true" ref="r-t-conf">
+      <caption webpage="r-t-conf" alt=""/>
+    </file>
+    <file name="u498-4.png" crc="4101173099" ref="r-t-conf"/>
+    <file name="u495-8.png" crc="33640360" ref="r-t-conf"/>
+    <file name="u1100-4.png" crc="124020642" ref="r-t-conf"/>
+    <file name="u513-6.png" crc="201572621" ref="quit-ind"/>
+    <file name="pasted image 876x587.jpg" crc="3856654853" seo="true" ref="quit-ind">
+      <caption webpage="quit-ind" alt=""/>
+    </file>
+    <file name="u528-4.png" crc="4256939579" ref="quit-ind"/>
+    <file name="u525-9.png" crc="3784003863" ref="quit-ind"/>
+    <file name="u1107-4.png" crc="124020642" ref="quit-ind"/>
+    <file name="u531-6.png" crc="527412220" ref="last-sfast"/>
+    <file name="pasted image 585x427.jpg" crc="4154494508" seo="true" ref="last-sfast">
+      <caption webpage="last-sfast" alt=""/>
+    </file>
+    <file name="u546-5.png" crc="56763821" ref="last-sfast"/>
+    <file name="u543-8.png" crc="3966731690" ref="last-sfast"/>
+    <file name="u1110-4.png" crc="124020642" ref="last-sfast"/>
+    <file name="u1079-6.png" crc="3852488683" ref="achiv"/>
+    <file name="u1119-4.png" crc="124020642" ref="achiv"/>
+    <file name="images (6)-u1052-fr.jpg" crc="348716190" ref="audio"/>
+    <file name="u1010-4.png" crc="3865695153" ref="dandi-march"/>
+    <file name="pasted image 635x442.jpg" crc="4269521003" seo="true" ref="dandi-march">
+      <caption webpage="dandi-march" alt=""/>
+    </file>
+    <file name="u1037-4.png" crc="85055089" ref="dandi-march"/>
+    <file name="u1013-8.png" crc="4285998872" ref="dandi-march"/>
+    <file name="u1113-4.png" crc="124020642" ref="dandi-march"/>
+    <file name="u990-4.png" crc="3917880377" ref="speech"/>
+    <file name="images (12).jpg" crc="270865865" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="images (1).jpg" crc="3962616152" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="images (17).jpg" crc="4222434050" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="images.jpg" crc="3974893004" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="images (11).jpg" crc="201031295" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="images (18).jpg" crc="3914627486" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="u1130-4.png" crc="124020642" ref="speech"/>
+    <file name="u1116-4.png" crc="124020642" ref="video"/>
+  </folder>
+  <file name="index.html" crc="4047024595" seo="true" mt="1573746634139" redirect="true"/>
+  <file name="banaras.html" crc="173662571" seo="true" mt="1573744100628" redirect="true"/>
+  <file name="untitled-3.html" crc="3791119529" seo="true" mt="1573690433359" redirect="true"/>
+  <file name="r-t-conf.html" crc="4107355097" seo="true" mt="1573744142420" redirect="true"/>
+  <file name="quit-ind.html" crc="520610824" seo="true" mt="1573744182151" redirect="true"/>
+  <file name="last-sfast.html" crc="3956712376" seo="true" mt="1573744215134" redirect="true"/>
+  <file name="achiv.html" crc="239442856" seo="true" mt="1573744395970" redirect="true"/>
+  <file name="audio.html" crc="464005058" seo="true" mt="1573695999092" redirect="true"/>
+  <file name="dandi-march.html" crc="356562452" seo="true" mt="1573744256851" redirect="true"/>
+  <file name="speech.html" crc="3855470687" seo="true" mt="1573747118000" redirect="true"/>
+  <file name="video.html" crc="4092875215" seo="true" mt="1573744289412" redirect="true"/>
+</manifest>
